@@ -35,6 +35,7 @@ Our project is an ONDC (Open Network for Digital Commerce) site integrated with 
 
 ## Contributing
 - Fork the repository.
+- After forking the repo , you have to clone it with the command " git clone <repo-link-under-your-name> " if you didn't clone it previously.
 - Create your feature branch: git checkout -b feature-name
 - Commit your changes: git commit -am 'Add some feature'
 - Push to the branch: git push origin feature-name
